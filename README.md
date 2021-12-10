@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm [@N3311](https://github.com/N3311/) 
 
-- 🔭 I'm currently working on my website
-- 👀 I’m interested in html
-- 🌱 I’m currently learning javascript
+- 🔭 I'm currently working on my website.
+- 👀 I’m interested in html, css and js.
+- 🌱 I’m currently learning javascript.
